@@ -1,3 +1,5 @@
+#Nikki Hamrick -- Project 0#
+
 print("Do you have a cat?")
 answer = input("Enter yes or no:")
 if answer == "yes":
