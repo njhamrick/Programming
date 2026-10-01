@@ -30,7 +30,7 @@ for i in range(2, 8): #Starts range at 2 instead of 0
     print(i)
 #Loops through the numbers 2 and 7 and prints their squares
 for i in range(2, 8):
-print(i ** 2)
+    print(i ** 2)
 
 #PART 5: Loop Through A String
 #Loops through each letter in my name and prints them individually
